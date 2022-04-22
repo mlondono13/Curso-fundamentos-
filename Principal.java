@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 public class Principal{
-    Scanner scan2 = new Scanner(System.in);
     // MAIN 
     public static void main (String[]args){
         Principal.mostrarMenu();
